@@ -1,5 +1,4 @@
 
-```
 # Medals Predictor Model
 
 ## Overview
@@ -14,32 +13,19 @@ The Medals Predictor Model is a machine learning model designed to predict the n
 To use the Medals Predictor Model, follow these steps:
 
 1. Clone the repository to your local machine:
-<<<<<<< HEAD
-git clone https://github.com/adityajha2005/MedalsPredictorModel.git
-
-
-2. Install the required dependencies:
-pip install -r requirements.txt
-
-
-3. Run the main script to train the model and make predictions:
-python main.py
-
-=======
-   ```
+   ```bash
    git clone https://github.com/adityajha2005/MedalsPredictorModel.git
    ```
 
 2. Install the required dependencies:
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
 3. Run the main script to train the model and make predictions:
-   ```
+   ```bash
    python main.py
    ```
->>>>>>> 0d7d10a0d692fe66622bd53f157f7a0a4a6059b0
 
 4. Input the required parameters when prompted and view the predicted medal count for the specified country.
 
@@ -50,17 +36,14 @@ The project utilizes historical data from past sports events to train the machin
 Contributions to the project are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License].
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 - This project is inspired by the excitement and anticipation surrounding sports events.
 - Special thanks to contributors and users for their valuable feedback and support.
 
 ## Contact
-<<<<<<< HEAD
-For any inquiries or feedback, please contact [Aditya](2005@gmail.com).
-=======
 For any inquiries or feedback, please contact [Aditya](2005@gmail.com).
 ```
 
->>>>>>> 0d7d10a0d692fe66622bd53f157f7a0a4a6059b0
+Feel free to copy and paste this content directly into your README.md file in your GitHub repository. Let me know if you need further assistance!
