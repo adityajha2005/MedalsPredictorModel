@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
+
 ```
->>>>>>> 0d7d10a0d692fe66622bd53f157f7a0a4a6059b0
 # Medals Predictor Model
 
 ## Overview
